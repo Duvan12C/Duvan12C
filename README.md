@@ -1,151 +1,311 @@
-<!-- Perfil README de GitHub — Duvan Ernesto Castellanos González -->
-<h1 align="center">¡Hola! Soy Duvan Ernesto Castellanos González <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  ¡Hola! Soy Duvan Ernesto Castellanos González 👋
+</h1>
+
+<h3 align="center">
+  Full Stack Developer | Java • .NET • React • Next.js
+</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Analista+Programador;Full+Stack+Developer;Java+%7C+.NET+%7C+JS%2FTS%2FPHP%2FDart;MySQL+%7C+PostgreSQL+%7C+SQL+Server+%7C+Oracle;Siempre+aprendiendo+cosas+nuevas&center=true&width=650&height=45">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+C%23+%E2%80%A2+.NET;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;REST+APIs+%E2%80%A2+Cloud+%E2%80%A2+CI%2FCD;Siempre+aprendiendo+y+construyendo+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Duvan12c">
-    <img src="https://komarev.com/ghpvc/?username=Duvan12c&label=Profile%20views&color=0e75b6&style=plastic" alt="profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Duvan12c&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
-<h4 align="center">
-  Programador motivado y colaborativo, orientado al aprendizaje continuo y a crear soluciones que aporten valor real.  
-  Experiencia en frontend, backend y mobile, trabajando con bases de datos relacionales y APIs RESTful. :contentReference[oaicite:1]{index=1}
-</h4>
 
 ---
 
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Duvan12c&theme=algolia" alt="GitHub Streak" />
-</p>
+## 👨‍💻 Sobre mí
 
-## 🧰 Tech Stack / My Skills
+Soy **Full Stack Developer** con más de **4 años de experiencia** desarrollando aplicaciones web, backend y mobile.
 
-### 👉 Cloud & DevOps
+He trabajado con tecnologías como **Java, Spring Boot, C#, .NET, JavaScript, TypeScript, React, Next.js, PHP y Flutter**, participando en el desarrollo e integración de aplicaciones empresariales, APIs REST y soluciones conectadas a bases de datos relacionales.
+
+También cuento con experiencia trabajando con **Azure, AWS, CI/CD, Docker, Git y arquitecturas orientadas a servicios**, aplicando buenas prácticas de desarrollo y control de versiones.
+
+Me interesa continuar creciendo profesionalmente, asumir nuevos retos y construir soluciones de software escalables y mantenibles.
+
+---
+
+# 🧰 Tech Stack
+
+### 💻 Lenguajes de Programación
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+</p>
+
+### ⚙️ Backend
+
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=swagger&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+</p>
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+</p>
+
+### 📱 Desarrollo Mobile
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/Java_Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Java Android"/>
+</p>
+
+### 🗄️ Bases de Datos
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+</p>
+
+### 🛠️ Herramientas
+
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
-
-### 👉 Cloud & DevOps
-<p align="left">
-  <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?logo=googlecloud&logoColor=white"></a>
-  <a href="#"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?logo=microsoftazure&logoColor=white"></a>
-  <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?logo=AWS&logoColor=white"></a>
-  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"></a>
-  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
-</p>
-
-### 👉 Lenguajes de Programación
-<p align="left">
-  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
-  <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white"></a>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
-  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
-  <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white"></a>
-  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-%230075A8.svg?logo=postgresql&logoColor=white"></a>
-</p>
-
-### 👉 Frameworks & Librerías
-<p align="left">
-  <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET%20%26%20ASP.NET%20MVC-%23512BD4.svg?logo=dotnet&logoColor=white"></a>
-  <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=springboot&logoColor=white"></a>
-  <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000.svg?logo=nextdotjs&logoColor=white"></a>
-  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black"></a>
-  <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"></a>
-  <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?logo=vuedotjs&logoColor=white"></a>
-  <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=flutter&logoColor=white"></a>
-</p>
-
-### 👉 Bases de Datos
-<p align="left">
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
-  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white"></a>
-  <a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?logo=microsoftsqlserver&logoColor=white"></a>
-  <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-%23F80000.svg?logo=oracle&logoColor=white"></a>
-</p>
-
-### 👉 Otras Skills
-<p align="left">
-  <a href="#"><img alt="REST APIs" src="https://img.shields.io/badge/REST%20APIs-%23007396.svg?logo=swagger&logoColor=white"></a>
-  <a href="#"><img alt="DevExpress" src="https://img.shields.io/badge/DevExpress-%23FF7200.svg?logo=devexpress&logoColor=white"></a>
-  <a href="#"><img alt="Razor" src="https://img.shields.io/badge/Razor-%230078D7.svg?logo=visualstudio&logoColor=white"></a>
-  <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-%23000000.svg?logo=jsonwebtokens&logoColor=white"></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"></a>
-  <a href="#"><img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-%23FB7A24.svg?logo=xampp&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
 </p>
 
 ---
 
-## 💼 Experiencia (resumen)
-- **Roots — Desarrollador** *(Jun 2025 — Actualidad)*: Next.js, TypeScript, MySQL/PostgreSQL, APIs REST, diseño de interfaces, pruebas, levantamiento de requerimientos. :contentReference[oaicite:2]{index=2}  
-- **MedicPro — Programador .NET** *(Jun 2025 — Actualidad)*: .NET, PHP (CodeIgniter), React, MySQL/PostgreSQL; análisis y gestión clínica, pruebas funcionales. :contentReference[oaicite:3]{index=3}  
-- **GrupoVision — Analista Programador** *(2024 — Actualidad)*: Backend .NET/SQL Server/SQLite, APIs REST; frontend con JS, Razor, MVC; mobile con Java (Android). :contentReference[oaicite:4]{index=4}  
-- **Accapital — Programador Flutter** *(Nov 2024 — Ago 2025)*: Flutter/Dart, consumo de APIs, UI personalizada, MySQL. :contentReference[oaicite:5]{index=5}
+# 💼 Experiencia
 
-> También he trabajado proyectos freelance con Java/Oracle/Angular y administración/optimización de BD. :contentReference[oaicite:6]{index=6}
+### 🏢 IMAN — Desarrollador / Analista Programador
+
+**Julio 2026 — Actualidad**
+
+* Desarrollo y mantenimiento de aplicaciones empresariales.
+* Trabajo con tecnologías del ecosistema **.NET y desarrollo web**.
+* Análisis, implementación y soporte de soluciones de software.
+* Trabajo colaborativo y control de versiones.
+
+### 🏦 Banco Agrícola / Stefanini — Desarrollador Java
+
+**Abril 2026 — Junio 2026**
+
+* Desarrollo backend utilizando **Java y Spring Boot**.
+* Desarrollo e integración de **APIs REST**.
+* Integración con sistemas empresariales mediante **IBM MQ**.
+* Trabajo con **Microsoft Azure y Azure DevOps**.
+* Implementación y mantenimiento de procesos **CI/CD**.
+* Control de calidad de código mediante **SonarQube**.
+* Desarrollo de pruebas unitarias.
+* Control de versiones con **Git y GitHub**.
+* Trabajo bajo metodología **Scrum**.
+
+### 💻 Roots — Full Stack Developer
+
+**Junio 2025 — Febrero 2026**
+
+* Desarrollo de aplicaciones web utilizando **Next.js y TypeScript**.
+* Desarrollo e integración de APIs REST.
+* Trabajo con **MySQL y PostgreSQL**.
+* Diseño e implementación de interfaces.
+* Levantamiento y análisis de requerimientos.
+* Pruebas funcionales y mantenimiento de aplicaciones.
+
+### 🏥 MedicPro — Programador Full Stack
+
+**Junio 2025 — Octubre 2025**
+
+* Desarrollo con **.NET, PHP y React**.
+* Implementación de funcionalidades para sistemas de gestión.
+* Integración con **MySQL y PostgreSQL**.
+* Desarrollo y mantenimiento de interfaces.
+* Pruebas funcionales y corrección de incidencias.
+
+### 📱 Suittch — Flutter Developer
+
+**Noviembre 2025 — Enero 2026**
+
+* Desarrollo de aplicaciones móviles utilizando **Flutter y Dart**.
+* Consumo e integración de APIs REST.
+* Desarrollo de interfaces móviles.
+* Implementación de funcionalidades y mantenimiento de aplicaciones.
+
+### 🖥️ GrupoVision — Analista Programador
+
+**Febrero 2024 — Junio 2025**
+
+* Desarrollo backend utilizando **.NET**.
+* Desarrollo de aplicaciones con **ASP.NET MVC y Razor**.
+* Desarrollo frontend con **JavaScript, HTML y CSS**.
+* Desarrollo e integración de APIs REST.
+* Trabajo con **SQL Server y SQLite**.
+* Desarrollo móvil con **Java para Android**.
+* Mantenimiento y mejora de aplicaciones existentes.
+
+### 🚀 Experiencia Freelance
+
+También he participado en diferentes proyectos freelance desarrollando soluciones con tecnologías como:
+
+**Java • Oracle • Angular • .NET • PHP • React • Next.js • MySQL • PostgreSQL**
+
+Incluyendo desarrollo de aplicaciones web, APIs REST, sistemas administrativos, integración de bases de datos y mantenimiento de sistemas existentes.
 
 ---
 
-## 🎓 Educación
-- **Fullstack — Kodigo** *(2022 — Presente)* :contentReference[oaicite:7]{index=7}  
-- **BackEnd Java (Aplicaciones y Servicios Web) — FORMAS** *(Feb–Abr 2023)* :contentReference[oaicite:8]{index=8}  
-- **Técnico en Desarrollo de Software — Instituto Nacional de Sonzacate** *(2014–2017)* :contentReference[oaicite:9]{index=9}
+# 🚀 Proyectos Destacados
+
+### 🔹 Aplicaciones y APIs REST
+
+Desarrollo de APIs y servicios backend aplicando separación de responsabilidades, autenticación, validaciones, integración con bases de datos y documentación de endpoints.
+
+**Tecnologías:** Java, Spring Boot, .NET, REST, JWT, Swagger.
+
+### 🔹 Sistemas Web Empresariales
+
+Desarrollo de sistemas administrativos y aplicaciones orientadas a la gestión de información empresarial.
+
+**Tecnologías:** .NET, ASP.NET MVC, React, Next.js, PHP, JavaScript, SQL Server, PostgreSQL y MySQL.
+
+### 🔹 Aplicaciones Mobile
+
+Desarrollo de aplicaciones móviles e integración con servicios backend.
+
+**Tecnologías:** Flutter, Dart, Android Java y REST APIs.
+
+### 🔹 Soluciones Cloud
+
+Experiencia trabajando con servicios y despliegues utilizando tecnologías cloud y procesos automatizados.
+
+**Tecnologías:** Azure, AWS, Google Cloud, Docker y CI/CD.
 
 ---
 
-## 📌 Proyectos destacados
-- **API REST (Turkey Apparel)** — Arquitectura escalable, documentación y endpoints robustos. :contentReference[oaicite:10]{index=10}  
-- **Aplicación móvil Flutter** — Consumo de APIs REST, UI con widgets personalizados. :contentReference[oaicite:11]{index=11}  
-- **Sistema Web de Gestión** — Java + SQL Server, patrón MVC, seguridad y rendimiento. :contentReference[oaicite:12]{index=12}
+# 🎓 Educación & Formación
+
+### 🎓 Full Stack Developer — Kodigo
+
+Formación en desarrollo Full Stack.
+
+### ☕ Backend Java — FORMAS
+
+**Febrero 2023 — Abril 2023**
+
+Formación enfocada en desarrollo de aplicaciones y servicios web utilizando Java.
+
+### 💾 Bases de Datos — INSAFORP
+
+**2022**
+
+Formación relacionada con bases de datos y SQL.
+
+### 💻 Técnico en Desarrollo de Software
+
+**Instituto Nacional de Sonzacate**
+
+**2014 — 2017**
+
+Formación técnica en programación y desarrollo de software.
 
 ---
 
-## 📊 GitHub Stats
-<details>
-  <summary><b>💻 Perfil</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Duvan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Duvan12c&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-    </a>
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Duvan12c&show_icons=true&locale=es&layout=compact&theme=algolia" alt="top langs" height="192px"/>
-  </p>
-  <p align="center"><i>Nota: “Top languages” refleja el código público, no el nivel de experiencia.</i></p>
-</details>
+# 📊 GitHub Stats
 
-<!-- Si quieres actividad gráfica, puedes reactivar un servicio alterno:
-<details>
-  <summary><b>⚡ Actividad Reciente</b></summary>
-  <br/>
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Duvan12c&theme=react-dark&custom_title=Contribution%20Graph"/>
-</details>
--->
-
----
-
-## 🙋‍♂️ Conecta conmigo
 <p align="center">
-  <a href="mailto:iduvangonzalez.13@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/duvan-ernesto-castellanos-gonzalez/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://github.com/Duvan12c"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-  <a href="https://duvan-castellanos-two.vercel.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portafolio"/></a>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Duvan12c&show_icons=true&theme=algolia&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duvan12c&layout=compact&theme=algolia&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <i>Los lenguajes mostrados corresponden al código disponible públicamente en GitHub y no representan necesariamente mi nivel de experiencia.</i>
 </p>
 
 ---
-<!-- Frase personal (opcional) -->
-<p align="center"><i>"Seguir aprendiendo y crecer como profesional, aportando al éxito del equipo y la empresa."</i> :contentReference[oaicite:13]{index=13}</p>
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Duvan12c&theme=algolia&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Duvan12c&theme=react-dark&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+---
+
+# 🤝 Conecta conmigo
+
+<p align="center">
+  <a href="mailto:iduvangonzalez.13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/duvan-ernesto-castellanos-gonzalez/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Duvan12c">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://duvan-castellanos-two.vercel.app/">
+    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>💡 Siempre aprendiendo, construyendo y buscando nuevos retos.</b>
+</p>
+
+<p align="center">
+  <i>"Transformando ideas en soluciones de software."</i>
+</p>
