@@ -132,7 +132,7 @@
   <a href="mailto:iduvangonzalez.13@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/duvan-ernesto-castellanos-gonzalez/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://github.com/Duvan12c"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-  <a href="https://torre.ai/iduvangonzalez13"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Torre"/></a>
+  <a href="https://duvan-castellanos-two.vercel.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portafolio"/></a>
 </p>
 
 ---
